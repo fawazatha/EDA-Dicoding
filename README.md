@@ -12,13 +12,13 @@ This project is a comprehensive exploratory data analysis focused on e-commerce 
 ## Setup Environment
 First way:
 1. Clone this repository to your local machine:
-git clone https://github.com/fawazatha/EDA-Dicoding.git
+   git clone https://github.com/fawazatha/EDA-Dicoding.git
 
 2. Go to the project directory
-cd EDA-Dicoding
+   cd EDA-Dicoding
 
 3. Install the required Python packages by running:
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 Additional way
 1. Create a new environment
