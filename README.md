@@ -44,6 +44,6 @@ Exploring data from e-commerce sources can help uncover interesting patterns and
 
 Visualization: Run the Streamlit dashboard for interactive data exploration:
 
-cd EDA-Dicoding/dashboard
-streamlit run dashboard.py
+- cd EDA-Dicoding/dashboard
+- streamlit run dashboard.py
 Access the dashboard in your web browser at http://localhost:8501.
