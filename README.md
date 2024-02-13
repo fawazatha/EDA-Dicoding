@@ -35,3 +35,15 @@ Additional way
 3. install necessary libraries
    
    pip install numpy pandas scipy matplotlib seaborn jupyter streamlit ipykernel
+
+## Usage
+Data Wrangling: Scripts are available in the notebook.ipynb file to prepare and clean the data.
+
+Exploratory Data Analysis (EDA): Explore and analyze the data. 
+Exploring data from e-commerce sources can help uncover interesting patterns and trends. These insights can give us a better understanding of how people shop online and how markets work.
+
+Visualization: Run the Streamlit dashboard for interactive data exploration:
+
+cd EDA-Dicoding/dashboard
+streamlit run dashboard.py
+Access the dashboard in your web browser at http://localhost:8501.
