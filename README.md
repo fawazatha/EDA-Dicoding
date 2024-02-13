@@ -26,12 +26,12 @@ First way:
 Additional way
 1. Create a new environment
    
-conda create --name eda-dicoding python=3.9
+   conda create --name eda-dicoding python=3.9
    
 2. Activate new environment
    
-conda activate eda-dicoding
+   conda activate eda-dicoding
 
 3. install necessary libraries
    
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit ipykernel
+   pip install numpy pandas scipy matplotlib seaborn jupyter streamlit ipykernel
