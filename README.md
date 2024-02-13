@@ -4,7 +4,7 @@
 This project is a comprehensive exploratory data analysis focused on e-commerce public data. It also include streamlit dashboard for interactive data exploration. The project is specifically focused on the E-Commerce Public Dataset, and aims to provide valuable insights and recommendations for improving e-commerce performance.
 
 ## Project Structure
-dashboard/: This directory contains dashboard.py, which is a dashboard created with streamlit.
-data/: Directory containing the raw CSV data files.
-EDA.ipynb: This file is used to perform exploratory data analysis.
-README.md: This documentation file.
+- dashboard/: This directory contains dashboard.py, which is a dashboard created with streamlit.
+- data/: Directory containing the raw CSV data files.
+- EDA.ipynb: This file is used to perform exploratory data analysis.
+- README.md: This documentation file.
