@@ -15,18 +15,23 @@ First way:
    
    git clone https://github.com/fawazatha/EDA-Dicoding.git
 
-3. Go to the project directory
+2. Go to the project directory
+   
    cd EDA-Dicoding
 
-4. Install the required Python packages by running:
+3. Install the required Python packages by running:
+   
    pip install -r requirements.txt
 
 Additional way
 1. Create a new environment
+   
 conda create --name eda-dicoding python=3.9
    
 2. Activate new environment
+   
 conda activate eda-dicoding
 
 3. install necessary libraries
+   
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit ipykernel
