@@ -6,5 +6,26 @@ This project is a comprehensive exploratory data analysis focused on e-commerce 
 ## Project Structure
 - dashboard/: This directory contains dashboard.py, which is a dashboard created with streamlit.
 - data/: Directory containing the raw CSV data files.
-- EDA.ipynb: This file is used to perform exploratory data analysis.
+- notebook.ipynb: This file is used to perform exploratory data analysis.
 - README.md: This documentation file.
+
+## Setup Environment
+First way:
+1. Clone this repository to your local machine:
+git clone https://github.com/fawazatha/EDA-Dicoding.git
+
+2. Go to the project directory
+cd EDA-Dicoding
+
+3. Install the required Python packages by running:
+pip install -r requirements.txt
+
+Additional way
+1. Create a new environment
+conda create --name eda-dicoding python=3.9
+   
+2. Activate new environment
+conda activate eda-dicoding
+
+3. install necessary libraries
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit ipykernel
